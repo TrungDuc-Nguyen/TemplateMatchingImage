@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="tests">
+    <CLASSES>
+      <root url="jar://D:/setup/data/anaconda/Lib/site-packages/statsmodels/datasets/tests/raw.github.com,vincentarelbundock,Rdatasets,master,datasets.csv.zip!/" />
+      <root url="jar://D:/setup/data/anaconda/Lib/site-packages/statsmodels/datasets/tests/raw.github.com,vincentarelbundock,Rdatasets,master,csv,car,Duncan.csv.zip!/" />
+      <root url="jar://D:/setup/data/anaconda/Lib/site-packages/statsmodels/datasets/tests/raw.github.com,vincentarelbundock,Rdatasets,master,doc,car,rst,Duncan.rst.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
