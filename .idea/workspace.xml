@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41a52139-3a6b-4ec0-b317-28656a83aabb" name="Default Changelist" comment="" />
+    <list default="true" id="41a52139-3a6b-4ec0-b317-28656a83aabb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hust.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatchImage/sift_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchImage/sift_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatchImage/surf_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchImage/surf_func.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -28,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/setup/data/anaconda/Lib/site-packages" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -35,6 +47,27 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.main">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TemplateMatching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TemplateMatching" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sift_func (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TemplateMatching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/MatchImage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/MatchImage/sift_func.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,9 +131,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="surf_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TemplateMatching" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/MatchImage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/MatchImage/surf_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.surf_func" />
+        <item itemvalue="Python.sift_func (1)" />
         <item itemvalue="Python.sift_func" />
       </list>
     </recent_temporary>
@@ -106,42 +184,46 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1593712186986" />
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594406291594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1594406291594" />
     <state x="576" y="180" key="FileChooserDialogImpl" timestamp="1593711833853">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="576" y="180" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1593711833853" />
-    <state width="1323" height="207" key="GridCell.Tab.0.bottom" timestamp="1593882856763">
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom" timestamp="1594669702115">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593882856763" />
-    <state width="1323" height="207" key="GridCell.Tab.0.center" timestamp="1593882856763">
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594669702115" />
+    <state width="1323" height="204" key="GridCell.Tab.0.center" timestamp="1594669702114">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593882856763" />
-    <state width="1323" height="207" key="GridCell.Tab.0.left" timestamp="1593882856763">
+    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594669702114" />
+    <state width="1323" height="204" key="GridCell.Tab.0.left" timestamp="1594669702114">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593882856763" />
-    <state width="1323" height="207" key="GridCell.Tab.0.right" timestamp="1593882856763">
+    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594669702114" />
+    <state width="1323" height="204" key="GridCell.Tab.0.right" timestamp="1594669702115">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593882856763" />
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1593799253246">
+    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594669702115" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1594590617773">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593799253246" />
-    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1593799253246">
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594590617773" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1594590617772">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1593799253246" />
-    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1593799253246">
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1594590617772" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1594590617772">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1593799253246" />
-    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1593799253246">
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1594590617772" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1594590617772">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1593799253246" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1594590617772" />
     <state x="348" y="83" width="680" height="602" key="NewModule_or_Project.wizard" timestamp="1593711702404">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -150,14 +232,18 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1593766101684" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1593861665748">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1594554033548">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1593861665748" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1594554033548" />
     <state x="65" y="86" key="new project wizard" timestamp="1593711834728">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="65" y="86" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1593711834728" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1594406919223">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1594406919223" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1593786858534">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
